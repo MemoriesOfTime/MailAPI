@@ -17,6 +17,13 @@
         <lib.GameCore.version>1.6.11</lib.GameCore.version>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>maven-repo</id>
+            <url>file:/www/wwwroot/repo.lanink.cn</url>
+        </repository>
+    </distributionManagement>
+
     <repositories>
         <repository>
             <id>opencollab-repo-release</id>
