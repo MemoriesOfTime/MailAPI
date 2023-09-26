@@ -1,0 +1,11 @@
+name: MailAPI
+main: cn.lanink.gamecore.mailapi.NukkitLoad
+version: "1.0.0"
+api:
+  - "1.0.0"
+  - "1.0.9"
+  - "1.0.14"
+author: "LT_Name"
+load: POSTWORLD
+softdepend:
+  - "MemoriesOfTime-GameCore"

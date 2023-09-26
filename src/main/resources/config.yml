@@ -1,0 +1,7 @@
+smtpServer:
+  host: "smtp.qq.com"
+  port: 465
+  ssl: true
+smtpUser:
+  username: "demo@qq.com"
+  password: "123456"

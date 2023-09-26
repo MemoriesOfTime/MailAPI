@@ -1,0 +1,6 @@
+name: MailAPI
+main: cn.lanink.gamecore.mailapi.MailAPI
+version: "1.0.0-SNAPSHOT"
+api:
+  - "1.0.11"
+author: "LT_Name"
