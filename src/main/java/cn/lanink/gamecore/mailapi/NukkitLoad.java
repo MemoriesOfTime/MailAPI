@@ -33,7 +33,7 @@ public class NukkitLoad extends PluginBase {
         //加载模块
         HotSwapManager hotSwapManager = GameCore.getInstance().hotSwapManager;
         hotSwapManager.loadModuleFromLocal(this.getFile());
-        hotSwapManager.enableModule("SmsApi");
+        hotSwapManager.enableModule("MailAPI");
     }
 
 }
